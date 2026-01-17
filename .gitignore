@@ -1,0 +1,17 @@
+# 编译后的可执行文件
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# UPX工具相关文件
+upx.zip
+upx-*/
+
+# 结果输出文件
+aliver.txt
+
+# 其他临时文件
+*.tmp
+*.log
